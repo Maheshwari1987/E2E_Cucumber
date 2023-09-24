@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"4f46e28a-5df6-43c5-acca-064e9f93f26d","feature":"Login page feature","scenario":"Login page Title","start":1695536929762,"group":16,"content":"","tags":"@login,@smoke,","end":1695536959341,"className":"passed"},{"id":"39805bcb-cf8c-40be-ae6f-a315cb0a844e","feature":"Login page feature","scenario":"Forget password","start":1695536929753,"group":17,"content":"","tags":"@login,@smoke,","end":1695536959423,"className":"passed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":16,"content":"Thread[TestNG-PoolService-0,5,main]"},{"id":17,"content":"Thread[TestNG-PoolService-1,5,main]"}]);
+});
